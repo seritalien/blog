@@ -30,7 +30,7 @@ twitter_username: seritalien
 github_username:  seritalien
 
 # Build settings
-theme: midnight
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
