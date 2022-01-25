@@ -30,7 +30,7 @@ twitter_username: seritalien
 github_username:  seritalien
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
